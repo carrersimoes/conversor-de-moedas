@@ -1,0 +1,1 @@
+Olá! Esse projeto foi desenvolvido durante a Imersão Dev da Alura, utilizando conceitos iniciais de JavaScript, CSS e HTML.
